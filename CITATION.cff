@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite the accompanying thesis."
+title: "argk-2 × CoCl2 — C. elegans RNA-seq Analysis Pipeline"
+abstract: >
+  End-to-end reproducible pipeline for RNA-seq analysis of CoCl2 stress
+  response in argk-2-/- and argk-4-/- C. elegans, identifying 90 genotype ×
+  environment (G×E) interaction genes with a strong sub-additive bias and
+  TF-centered regulatory architecture (zip-2 as primary G×E hub).
+authors:
+  - family-names: Dunivan
+    given-names: Cole
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-28"
+keywords:
+  - rna-seq
+  - C. elegans
+  - DESeq2
+  - oxidative-stress
+  - GxE
+  - gene-regulatory-network
+references:
+  - type: software
+    title: DESeq2
+    authors:
+      - family-names: Love
+        given-names: Michael I.
+      - family-names: Huber
+        given-names: Wolfgang
+      - family-names: Anders
+        given-names: Simon
+    doi: 10.1186/s13059-014-0550-8

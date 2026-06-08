@@ -1,0 +1,32 @@
+# R artifacts
+.Rhistory
+.Rapp.history
+.RData
+*.Rproj.user/
+*.Rcheck/
+*-Ex.R
+Rplots.pdf
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large intermediate files (regenerate via scripts)
+DESeq2_dds_interaction_model.RData
+Cleaned_Annotated_Counts_with_A31_A32.csv
+KEGG_Violin_*.png
+
+# TFLink input file is too large for vanilla git (~80 MB).
+# Recommended: track via Git LFS — see .gitattributes
+# Uncomment the next line if you prefer not to ship it at all:
+# data/reference/RNAseq_to_TF_Targets.csv
+
+# Outputs are reproducible from `bash run_all.sh`; comment out if you want to ship them
+# outputs/

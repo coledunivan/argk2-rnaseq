@@ -1,0 +1,25 @@
+SampleLabel,genotype,treatment,experiment,replicate,GEO_library_name
+A1,RB2060,untreated,Exp. 1,1,RB2060_UNT_EXP1_R1
+A2,RB2060,untreated,Exp. 1,2,RB2060_UNT_EXP1_R2
+A5,RB2598,untreated,Exp. 1,1,RB2598_UNT_EXP1_R1
+A6,RB2598,untreated,Exp. 1,2,RB2598_UNT_EXP1_R2
+A7,N2,untreated,Exp. 1,1,N2_UNT_EXP1_R1
+A8,N2,untreated,Exp. 1,2,N2_UNT_EXP1_R2
+A9,RB2060,treated,Exp. 1,1,RB2060_TR_EXP1_R1
+A10,RB2060,treated,Exp. 1,2,RB2060_TR_EXP1_R2
+A13,RB2598,treated,Exp. 1,1,RB2598_TR_EXP1_R1
+A14,RB2598,treated,Exp. 1,2,RB2598_TR_EXP1_R2
+A15,N2,treated,Exp. 1,1,N2_TR_EXP1_R1
+A16,N2,treated,Exp. 1,2,N2_TR_EXP1_R2
+A17,RB2060,untreated,Exp. 2,1,RB2060_UNT_EXP2_R1
+A18,RB2060,untreated,Exp. 2,2,RB2060_UNT_EXP2_R2
+A21,RB2598,untreated,Exp. 2,1,RB2598_UNT_EXP2_R1
+A22,RB2598,untreated,Exp. 2,2,RB2598_UNT_EXP2_R2
+A23,N2,untreated,Exp. 2,1,N2_UNT_EXP2_R1
+A24,N2,untreated,Exp. 2,2,N2_UNT_EXP2_R2
+A25,RB2060,treated,Exp. 2,1,RB2060_TR_EXP2_R1
+A26,RB2060,treated,Exp. 2,2,RB2060_TR_EXP2_R2
+A29,RB2598,treated,Exp. 2,1,RB2598_TR_EXP2_R1
+A30,RB2598,treated,Exp. 2,2,RB2598_TR_EXP2_R2
+A31,N2,treated,Exp. 2,1,N2_TR_EXP2_R1
+A32,N2,treated,Exp. 2,2,N2_TR_EXP2_R2
