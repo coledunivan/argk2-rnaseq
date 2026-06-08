@@ -3,7 +3,7 @@
 End-to-end reproducible pipeline for the analysis of CoCl₂ stress response in
 *argk-2⁻/⁻* (RB2060), *argk-4⁻/⁻* (RB2598), and wild-type N2 *C. elegans*,
 accompanying *Dunivan, "ARGK-2 sets a transcriptional stress response baseline
-in C. elegans"* (Honors Thesis).
+in C. elegans."
 
 The pipeline takes raw GEO count tables and a sample metadata sheet, fits a
 single canonical DESeq2 model under the full factorial design, and produces
